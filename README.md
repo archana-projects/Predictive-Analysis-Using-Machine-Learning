@@ -32,7 +32,11 @@ Overall, this repository serves as a practical demonstration of predictive analy
 - Pandas, NumPy  
 - Scikit-learn  
 - Matplotlib / Seaborn  
-- Jupyter Notebook  
+- Jupyter Notebook
+
+
+
+<img width="872" height="626" alt="Image" src="https://github.com/user-attachments/assets/5bdd94e7-c2cb-4318-87f5-15cfa53ae241" />
 
 ## Key Focus Areas
 - Data Preprocessing and Feature Engineering  
