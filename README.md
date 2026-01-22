@@ -1,17 +1,11 @@
 # Predictive-Analysis-Using-Machine-Learning
 
-
-
-
-
-
-
-
-
-
-
-
-
+**COMPANY**:CODTECH IT SOLUTIONS
+**NAME**:ARCHANA KUMARI
+**INTERN ID**: CT12DR864
+**DOMAIN**:DATA ANALYTICS
+**DURATION**:12 WEEKS
+**MENTOR**:NEELA SANTOSH
 
 Predictive Analysis Using Machine Learning focuses on leveraging historical data and advanced algorithms to predict future outcomes and trends. This project demonstrates how machine learning techniques can be applied to real-world datasets to identify patterns, build predictive models, and support data-driven decision-making. Predictive analytics plays a crucial role across industries by enabling organizations to anticipate future events rather than only reacting to past data.
 
